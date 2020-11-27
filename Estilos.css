@@ -1,0 +1,26 @@
+body{
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    font-size: 16px;
+}
+h1{
+    font-weight: 600;
+}
+p{
+    line-height: 180%;
+    color: #454545;
+}
+li{
+    color: #454545;
+}
+.text-blue{
+    color: blue;
+    
+}
+
+.fondo-color{
+    background-color: gray;
+    
+}
+#text-color{
+    font-weight: 700;
+}
